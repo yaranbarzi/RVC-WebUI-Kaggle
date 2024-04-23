@@ -8,9 +8,6 @@ Kaggle notebook for RVC WebUI
 How-to video:  
 <a href="https://youtube.com/@aigolden"><img src="https://s31.picofile.com/file/8474633876/1.png" width=500) /></a>
 
-Text tutorial: https://web.pogs.cafe/streaming/rvc-kaggle
-
-
 
 Telegram :  
 ⭐https://t.me/AI_Golden
